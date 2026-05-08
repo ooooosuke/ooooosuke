@@ -1,4 +1,4 @@
-# Howdy, I'm Ousuke Furuta 
+# Ousuke Furuta 
 
 ## Featured Projects
 
