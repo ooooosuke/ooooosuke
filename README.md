@@ -1,6 +1,5 @@
 # Ousuke Furuta 
-
-
+[![GitHub](https://img.shields.io/badge/Github-MyAccount-white?logo=github&logoColor=white)](https://github.com/ooooosuke)
   
 ## Licenses＆Certifications
 | Category | Issued | Expires |
