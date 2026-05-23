@@ -15,5 +15,5 @@
 -  [LY Tech Academy Blog: Student Interviews](https://careercatalyst.yahoo.co.jp/lyta/interview/interview13/)
   
 ## Currently
-Studying for AWS Certified CloudOps Engineer - Associate
+Studying for AWS Certified SysOps Administrator - Associate (SOA-C02)
 
