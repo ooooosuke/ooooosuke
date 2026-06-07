@@ -9,6 +9,7 @@
 | [Cisco Certified Network Associate (CCNA)](https://www.credly.com/badges/38684942-d00c-4a5a-bd8f-56a4f6e2f1d5/public_url)  | Dec 2024 | Dec 2027 |
 ## Featured Projects
 -  [cloud-resume-challenge](https://github.com/ooooosuke/cloud-resume-challenge)
+　  A modern, serverless resume hosting project featuring a fully automated IaC and CI/CD pipeline, complete with a built-in visitor counter.
 -  [DailyReportSystemApplication](https://github.com/ooooosuke/DailyReportSystemApplication)
   
  ## Others
